@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <h3 className="read-the-docs">
-        hi my name is justin han and this is my first time using vite and react. i am very excited to learn how to use these tools and create amazing projects with them. i hope to become a proficient developer and contribute to the open source community. thank you for reading my introduction and i look forward to sharing my journey with you all.
+        la l al al ala la 
       </h3>
     </>
   )
